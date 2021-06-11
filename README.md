@@ -19,6 +19,7 @@ CMS Version: 6.2.1
 - Faster load for Cache on Online Players,
 - Added Major Teleport Locations Using in Game Gold and Faction,
 - I worked in FusionCMS to make the avatar smaller to be much cooler with forum.
+- Unregistedred User may not see other character or Other Users Profile.
 
 
 ## Do you have any contributions?
