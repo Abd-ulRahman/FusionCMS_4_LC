@@ -1,0 +1,366 @@
+/*
+* TODO: RUN THROUGH PREFIXR
+ 
+=========== Fonts ===========*/
+@font-face
+{
+	font-family: MuseoSans;
+	src: url('../../../fonts/MuseoSans_500-webfont.eot');
+	src: url('../../../fonts/MuseoSans_500-webfont.eot?#iefix') format('embedded-opentype'), url('../../../fonts/MuseoSans_500-webfont.woff') format('woff'), url('../../../fonts/MuseoSans_500-webfont.ttf') format('truetype'), url('../../../fonts/MuseoSans_500-webfont.svg#MuseoSans500') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face
+{
+	font-family: MuseoSlab;
+	src: url('../../../fonts/Museo_Slab_500-webfont.eot');
+	src: url('../../../fonts/Museo_Slab_500-webfont.eot?#iefix') format('embedded-opentype'), url('../../../fonts/Museo_Slab_500-webfont.woff') format('woff'), url('../../../fonts/Museo_Slab_500-webfont.ttf') format('truetype'), url('../../../fonts/Museo_Slab_500-webfont.svg#Museo_Slab500') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+/*=========== General ===========*/
+BODY
+{
+	font-family: MuseoSans, Arial, Helvetica, Sans-seif;
+	font-size: 12px;
+	color: #54C3FB;
+	background-image: url(../images/freestyle1600x9gpf4zy62cv.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-color: #011E2F;
+	text-shadow: 1px 1px #5D0808;
+}
+*, UL, LI, H1, H2, P, B
+{
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	line-height: 1.5;
+}
+*:focus
+{
+	outline: 2px none;
+}
+.clear
+{
+	clear: both;
+}
+INPUT, SELECT, TEXTAREA
+{
+	box-sizing: content-box;
+	-ms-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	-webkit-box-sizing: content-box;
+	background-image: url(images/side_divider.png);
+	opacity: 0.8;
+}
+A
+{
+	text-decoration: none;
+	color: #3D4346;
+}
+A:hover
+{
+	color: #A07332;
+}
+A IMG
+{
+	border: none;
+}
+#left #left_menu LI A, #top_menu LI A, FOOTER #logo
+{
+	transition: 0.3s all;
+	-webkit-transition: 0.3s all;
+	-moz-transition: 0.3s all;
+	-ms-transition: 0.3s all;
+	-o-transition: 0.3s all;
+}
+/*=========== Main ===========*/
+#hand
+{
+	/*[empty]background-image:;*/
+	position: absolute;
+	height: 97px;
+	width: 177px;
+	margin-left: 7px;
+	z-index: 3;
+}
+#bottom_bg
+{
+	position: absolute;
+	background-image: url(../images/lower_bg.jpg);
+	height: 913px;
+	width: 1650px;
+	left: 50%;
+	margin-left: -825px;
+	z-index: 1;
+}
+#wrapper
+{
+	width: 1020px;
+	margin-top: 280px;
+	margin-bottom: 119px;
+	margin-left: auto;
+	margin-right: auto;
+	background: #000000;
+	border: 1px solid #1431C6;
+	opacity: 0.80;
+}
+#main
+{
+	min-height: 1200px;
+	opacity: 0.80;
+}
+/*=========== Top menu ===========*/
+#wrapper #top_menu
+{
+	height: 70px;
+	background-image: url(../images/menu.png);
+}
+#top_menu LI
+{
+	float: left;
+}
+#top_menu LI A
+{
+	display: block;
+	font-family: MuseoSlab;
+	font-size: 16px;
+	color: #CBCCFE;
+	padding: 22px 26px;
+	border-right: 1px solid rgba(14, 24, 32, 0.5);
+	border-left: 1px solid rgba(7, 7, 7, 0.5);
+}
+#top_menu LI A:hover
+{
+	color: #27CCF8;
+	background-color: rgba(0, 16, 26, 0.3);
+}
+/*We don't want half borders on the first and last ones*/
+#top_menu LI:first-child A
+{
+	border-left: none;
+}
+#top_menu LI:last-child A
+{
+	border-right: none;
+}
+/*Move the first link away from the panda's hand*/
+#top_menu LI:first-child
+{
+	margin-left: 180px;
+}
+/*=========== Left ===========*/
+#left
+{
+	width: 285px;
+	float: left;
+}
+#left ARTICLE
+{
+	border-right: 1px solid #080D11;
+	box-shadow: 1px 1px #020508;
+	-ms-box-shadow: 1px 1px 0px #020508;
+	-o-box-shadow: 1px 1px 0px #020508;
+	-moz-box-shadow: 1px 1px 0px #020508;
+	-webkit-box-shadow: 1px 1px 0px #020508;
+	background-color: rgba(0, 0, 0, 0.2);
+}
+#left ARTICLE:last-child
+{
+	border-bottom: 1px solid #031D32;
+	border-bottom-right-radius: 3px;
+}
+#left ARTICLE .top
+{
+	background-image: url(../images/side_top.png);
+	height: 34px;
+	width: 284px;
+	padding-top: 13px;
+	text-align: center;
+	color: #27CCF8;
+	font-size: 14px;
+	font-family: MuseoSlab;
+}
+#left ARTICLE .body
+{
+	padding: 15px;
+}
+#left #left_menu LI:nth-child(even) A
+{
+	background-color: rgba(10, 16, 22, 0.3);
+}
+#left #left_menu LI A
+{
+	display: block;
+	padding: 10px;
+	font-size: 14px;
+	color: #CF9139;
+	padding-left: 20px;
+}
+#left #left_menu A IMG
+{
+	margin-right: 15px;
+}
+#left #left_menu LI A:hover
+{
+	color: #27CCF8;
+	padding-left: 40px;
+}
+#left .side_divider
+{
+	margin-left: auto;
+	margin-right: auto;
+	background-image: url(../images/side_divider.png);
+	height: 25px;
+	width: 258px;
+	margin-top: 15px;
+}
+/*=========== Right ===========*/
+#right
+{
+	width: 734px;
+	float: right;
+	margin-right: 1px;
+}
+#right ARTICLE
+{
+	box-shadow: 1px 1px #020508;
+	-webkit-box-shadow: 1px 1px 0px #020508;
+	-o-box-shadow: 1px 1px 0px #020508;
+	-ms-box-shadow: 1px 1px 0px #020508;
+	-moz-box-shadow: 1px 1px 0px #020508;
+	background-color: #02060A;
+}
+#right ARTICLE:last-child
+{
+	border-bottom: 1px solid #080D11;
+	margin-bottom: 20px;
+}
+#right ARTICLE .top
+{
+	background-image: url(../images/main_top.png);
+	height: 37px;
+	width: 734px;
+	padding-top: 10px;
+	text-align: center;
+	color: #27CCF8;
+	font-size: 18px;
+	font-family: fantasy;
+	display: block;
+}
+#right ARTICLE .body
+{
+	padding: 15px;
+	background-image: url(images/side_divider.png);
+}
+#right ARTICLE .divider
+{
+	background-image: url(../images/divider.png);
+	background-position: center;
+	height: 32px;
+	margin-top: 15px;
+}
+#right ARTICLE .news_bottom
+{
+	margin-top: 15px;
+}
+#right ARTICLE .news_bottom A
+{
+	color: #A07332;
+}
+#right ARTICLE .news_bottom A:hover
+{
+	color: #FFF;
+}
+#right ARTICLE .comments_button
+{
+	float: right;
+	display: block;
+}
+.avatar
+{
+	float: left;
+	margin-right: 15px;
+	margin-top: 3px;
+	margin-bottom: 5px;
+}
+/*=========== Footer ===========*/
+FOOTER
+{
+	background-image: url(../images/footer.png);
+	height: 67px;
+	color: #0E2339;
+	font-size: 14px;
+}
+FOOTER P
+{
+	display: block;
+	padding: 24px;
+}
+FOOTER #logo
+{
+	float: right;
+	display: block;
+	background-image: url(../images/fusioncms.png);
+	width: 143px;
+	height: 20px;
+	margin-top: 24px;
+	margin-right: 24px;
+}
+FOOTER #logo:hover
+{
+	background-position: 0px 20px;
+}
+/*=========== CMS: general ===========*/
+#slider_bg
+{
+	background-color: #000;
+	padding: 15px;
+}
+#slider
+{
+	width: 704px;
+	height: 201px;
+}
+/*=========== CMS: general ===========*/
+.nice_button, INPUT[type="submit"]
+{
+	background-image: url(../images/button_bg.png);
+	height: 18px;
+	border: 1px solid #090F15;
+	border-top-color: #111F2A;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-align: center;
+	padding: 8px;
+	font-size: 12px;
+	color: #616C72;
+	box-shadow: 1px 1px #020508;
+	-webkit-box-shadow: 1px 1px 0px #020508;
+	-ms-box-shadow: 1px 1px 0px #020508;
+	-o-box-shadow: 1px 1px 0px #020508;
+	-moz-box-shadow: 1px 1px 0px #020508;
+	text-shadow: 1px 1px #000;
+	font-family: MuseoSans;
+	margin-top: 10px;
+	opacity: 0.5;
+}
+.nice_button:hover, .nice_active, INPUT[type="submit"]:hover
+{
+	background-position: 0px 37px;
+	color: #A07332;
+}
+.nice_button:active, INPUT[type="submit"]:active
+{
+	box-shadow: 1px 1px #020508, inset 0px 2px 5px #000;
+	-webkit-box-shadow: 1px 1px 0px #020508, 0px 2px 5px #000 inset;
+	-moz-box-shadow: 1px 1px 0px #020508, 0px 2px 5px #000 inset;
+	-ms-box-shadow: 1px 1px 0px #020508, 0px 2px 5px #000 inset;
+	-o-box-shadow: 1px 1px 0px #020508, 0px 2px 5px #000 inset;
+}

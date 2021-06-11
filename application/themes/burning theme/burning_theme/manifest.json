@@ -1,0 +1,18 @@
+{
+	"name": "Burning Theme",
+	"author": "EvilSystem",
+	"website": "http://evil.duloclan.com",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "Next",
+		"previous": "Prev"
+	},
+
+	"slider_id": "slider_bg",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": ""
+}

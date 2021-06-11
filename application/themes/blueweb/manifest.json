@@ -1,0 +1,19 @@
+{
+	"name": "BlueWeb",
+	"author": "Jesper Lindström",
+	"website": "http://raxezdev.com",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "Next",
+		"previous": "Prev"
+	},
+
+	"slider_id": "slider_box",
+	"sidebox_id": "",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": "images/blank_header.jpg"
+}

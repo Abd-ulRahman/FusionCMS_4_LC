@@ -1,0 +1,19 @@
+{
+	"name": "CataFusion",
+	"author": "Robin Fourcade",
+	"website": "http://www.djokx.com/",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "",
+		"previous": ""
+	},
+
+	"slider_id": "slider_bg",
+	"sidebox_id": "",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": ""
+}

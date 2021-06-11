@@ -1,0 +1,19 @@
+{
+	"name": "Silvanas Theme",
+	"author": "KennethHD",
+	"website": "http://ac-web.org",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "Siguente",
+		"previous": "Anterior"
+	},
+
+	"slider_id": "slider_bg",
+	"sidebox_id": "",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": ""
+}

@@ -1,0 +1,15 @@
+{
+	"name":"SQLB Manager",
+	"description":"Create SQLB files in here.",
+	"author":
+	{
+		"name":"Nirell",
+		"website":"http:\/\/storm-cold.com"
+	},
+	"admin":
+	[
+		
+	]
+	,
+	"enabled":true
+}

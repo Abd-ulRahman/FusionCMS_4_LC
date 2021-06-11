@@ -1,0 +1,19 @@
+{
+	"name": "Lich Theme",
+	"author": "United",
+	"website": "",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "&rarr;",
+		"previous": "&larr;"
+	},
+
+	"slider_id": "slider_bg",
+	"sidebox_id": "",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": ""
+}

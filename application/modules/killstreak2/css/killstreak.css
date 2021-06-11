@@ -1,0 +1,13 @@
+#crew_tabed_top_o {
+	padding: 10px;
+	background: rgba(255,41,112,0.1);
+	box-shadow: 0 2px 1px rgba(0,0,0,.3), inset 0 -1px 0 rgba(255,255,255,.70);
+	color: #c3b6a1;
+}
+
+#crew_tabed_list {
+	padding: 10px;
+	background: rgba(255,163,194,0.1);
+	box-shadow: 0 2px 1px rgba(0,0,0,.3), inset 0 -1px 0 rgba(255,255,255,.02);
+	color: #c3b6a1;
+}

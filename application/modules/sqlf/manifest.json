@@ -1,0 +1,15 @@
+{
+	"name":"SQLF Manager",
+	"description":"Create SQLF files in here.",
+	"author":
+	{
+		"name":"Nirel",
+		"website":"http:\/\/cold-storm.com"
+	},
+	"admin":
+	[
+		
+	]
+	,
+	"enabled":true
+}

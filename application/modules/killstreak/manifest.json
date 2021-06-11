@@ -1,0 +1,15 @@
+{
+	"name":"Top X Kill Streak",
+	"description":"Generates \/killstreak page with a top X kill streak",
+	"author":
+	{
+		"name":"AddeDev",
+		"website":"http:\/\/AddeDev.net"
+	},
+	"admin":
+	[
+		
+	]
+	,
+	"enabled":false
+}

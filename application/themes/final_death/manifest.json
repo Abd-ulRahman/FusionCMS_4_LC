@@ -1,0 +1,19 @@
+{
+	"name": "The Death II",
+	"author": "NomaD",
+	"website": "http://dulonomad.deviantart.com/",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "Next",
+		"previous": "Prev"
+	},
+
+	"slider_id": "slider_bg",
+	"sidebox_id": "",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": ""
+}

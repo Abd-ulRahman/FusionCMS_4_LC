@@ -1,0 +1,19 @@
+{
+	"name": "Drake",
+	"author": "EvilSystem",
+	"website": "http://evil.duloclan.com",
+	
+	"favicon": "favicon.gif",
+
+	"avatar": "avatars/avatar.jpg",
+
+	"slider_text": {
+		"next": "Next",
+		"previous": "Prev"
+	},
+
+	"slider_id": "slider_bg",
+	"sidebox_id": "",
+	"screenshot": "images/screenshot.jpg",
+	"blank_header": ""
+}
