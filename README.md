@@ -19,7 +19,7 @@ CMS Version: 6.2.1
 - Faster load for Cache on Online Players,
 - Added Major Teleport Locations Using in Game Gold and Faction,
 - I worked in FusionCMS to make the avatar smaller to be much cooler with forum.
-- Unregistedred User may not see other character or Other Users Profile.
+- Unregistered User may not see other character or Other Users Profile.
 - You may Upload Your own avatar this option was omitted in the latest FusionCMS.
 - for more info about LC visit https://www.mmopro.org/repacks/26450-exclusively-mmopro-legendary-release-multi-player-project-legendarycore-3-3-5a-repack.html
 - and much more.....!
