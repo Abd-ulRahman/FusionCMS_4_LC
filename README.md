@@ -12,7 +12,7 @@ CMS Version: 6.2.1
 - Donation System,
 - Account Settings (redirect Fixed!),
 - Icons System added,
-- All known bug Fixed,
+- All known bugs Fixed,
 - FusionCMS Has its Own forum so you don't have to use External forum,
 - Only Admin my edit or delete a post through http://127.0.0.1/news/admin,
 - Faster load for Cache on Server Status,
