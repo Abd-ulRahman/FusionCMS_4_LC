@@ -1,4 +1,4 @@
-# Abd-ulRahman's FusionCMS Drived from Poszer's FusionCMS
+# Abd-ulRahman's FusionCMS driven from Poszer's FusionCMS
 
 ## Intro
 This is the FusionCMS that Abd-ulRahman is working on updating it with fixes!
