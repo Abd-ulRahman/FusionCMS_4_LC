@@ -1,7 +1,7 @@
 # Abd-ulRahman's FusionCMS Drived from Poszer's FusionCMS
 
 ## Intro
-This is the FusionCMS that Poszer is working on updating it with fixes!
+This is the FusionCMS that Abd-ulRahman is working on updating it with fixes!
 
 CMS Version: 6.2.1
 
@@ -20,6 +20,8 @@ CMS Version: 6.2.1
 - Added Major Teleport Locations Using in Game Gold and Faction,
 - I worked in FusionCMS to make the avatar smaller to be much cooler with forum.
 - Unregistedred User may not see other character or Other Users Profile.
+- You may Upload Your own avatar this option was omitted in the latest FusionCMS.
+- and much more.....!
 
 
 ## Do you have any contributions?
