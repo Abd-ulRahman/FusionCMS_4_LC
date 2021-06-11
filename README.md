@@ -22,6 +22,7 @@ CMS Version: 6.2.1
 - Unregistered User may not see other character or Other Users Profile.
 - You may Upload Your own avatar this option was omitted in the latest FusionCMS.
 - for more info about LC visit https://www.mmopro.org/repacks/26450-exclusively-mmopro-legendary-release-multi-player-project-legendarycore-3-3-5a-repack.html
+- for life demo use my latest L.C. repack on mediafire https://www.mediafire.com/file/xuxa7vf28r85g1g
 - and much more.....!
 
 
