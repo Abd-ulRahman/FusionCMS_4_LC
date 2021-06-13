@@ -1011,6 +1011,8 @@ class Character extends MX_Controller
 			}
 		}
 
+		$this->cache->delete('*.cache');
+
 		$this->template->view($page, $this->css, $this->js);
 	}
 
