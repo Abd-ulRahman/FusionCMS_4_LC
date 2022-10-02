@@ -1,6 +1,6 @@
 # Screen Shots:-
 
-![alt tag](https://i.imgur.com/iqyhEr8.gif "WEB")
+https://user-images.githubusercontent.com/1366228/193450184-e98963ea-fc67-426a-a1e4-670ccc739140.mp4
 
 ## Intro
 This is the FusionCMS that Abd-ulRahman is working on updating it with fixes!
