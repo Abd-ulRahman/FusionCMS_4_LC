@@ -1,3 +1,4 @@
+
 # Screen Shots
 
 ![alt tag](https://i.imgur.com/iqyhEr8.gif "WEB")
@@ -33,5 +34,3 @@ CMS Version: 6.2.1
 ## Do you have any contributions?
 Please make a pull request and I will be glad on checking it and merge it!
 ## If you have any issue with this CMS, please post ISSUES on our Github, https://github.com/Abd-ulRahman/FusionCMS_4_LC.git
-
-
