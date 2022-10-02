@@ -1,6 +1,5 @@
 # Screen Shots:-
-
-![FusionCMS](https://user-images.githubusercontent.com/1366228/193451571-d0fd6183-ced2-4b17-8b11-810f49ec6e99.gif)
+![ffff](https://user-images.githubusercontent.com/1366228/193455978-9892ed97-831e-4951-9d8c-8e9534aec23f.gif)
 
 ## Intro
 This is the FusionCMS that Abd-ulRahman is working on updating it with fixes!
