@@ -1,4 +1,4 @@
-![This is an image](https://i.imgur.com/iqyhEr8.gif)
+![image](https://i.imgur.com/iqyhEr8.gif)
 
 ### About
 # Abd-ulRahman's FusionCMS driven from Poszer's FusionCMS
