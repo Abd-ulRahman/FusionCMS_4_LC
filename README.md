@@ -1,7 +1,4 @@
-
-# Screen Shots
-
-![alt tag](https://i.imgur.com/iqyhEr8.gif "WEB")
+![This is an image](https://i.imgur.com/iqyhEr8.gif)
 
 ### About
 # Abd-ulRahman's FusionCMS driven from Poszer's FusionCMS
