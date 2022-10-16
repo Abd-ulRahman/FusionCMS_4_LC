@@ -30,6 +30,7 @@ CMS Version: 6.2.1
 - You may directly Download My Repack LC With FusionCMS Support from  https://www.mediafire.com/file/teuttc0lhy76231/WoW_Wotlk_Server_LC.exe/file
 - You may directly Download My Repack LC v2 With FusionCMS Support from  https://www.mediafire.com/file/54xxyvmx99s1car/WoW_Wotlk_Server_LC_v2.exe/file
 - You may directly Download My Repack LC v3 With FusionCMS Support from  https://www.mediafire.com/file/qdb2a17wrb02tl6/WoW_Wotlk_Server_LC_v3.exe/file
+- You may directly Download My Repack LC v4 With FusionCMS Support from  https://www.mediafire.com/file/5yfx990eyan7ewg/WoW_Wotlk_Server_LC_v4.exe/file
 
 ## Do you have any contributions?
 Please make a pull request and I will be glad on checking it and merge it!
