@@ -27,10 +27,8 @@ CMS Version: 6.2.1
 - You may Upload Your own avatar this option was omitted in the latest FusionCMS.
 - and much more.....!
 - for more info about LC visit https://www.mmopro.org/repacks/26450-exclusively-mmopro-legendary-release-multi-player-project-legendarycore-3-3-5a-repack.html
-- You may directly Download My Repack LC With FusionCMS Support from  https://www.mediafire.com/file/teuttc0lhy76231/WoW_Wotlk_Server_LC.exe/file
-- You may directly Download My Repack LC v2 With FusionCMS Support from  https://www.mediafire.com/file/54xxyvmx99s1car/WoW_Wotlk_Server_LC_v2.exe/file
-- You may directly Download My Repack LC v3 With FusionCMS Support from  https://www.mediafire.com/file/qdb2a17wrb02tl6/WoW_Wotlk_Server_LC_v3.exe/file
-- You may directly Download My Repack LC v4 With FusionCMS Support from  https://www.mediafire.com/file/5yfx990eyan7ewg/WoW_Wotlk_Server_LC_v4.exe/file
+
+- You may directly Download My Repack LC v023 With FusionCMS Support from  https://www.mediafire.com/file/jr4ixz899ato9yr/WoW_Wotlk_Server_LC_v023.exe/file
 
 ## Do you have any contributions?
 Please make a pull request and I will be glad on checking it and merge it!
