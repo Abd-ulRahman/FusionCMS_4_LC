@@ -28,8 +28,6 @@ CMS Version: 6.2.1
 - and much more.....!
 - for more info about LC visit https://www.mmopro.org/repacks/26450-exclusively-mmopro-legendary-release-multi-player-project-legendarycore-3-3-5a-repack.html
 
-- You may directly Download My Repack LC rev029 With FusionCMS Support from https://www.mediafire.com/file/lskep12bk8batr4/WoW_Wotlk_Server_LC_v028.exe/file
-
 ## Do you have any contributions?
 Please make a pull request and I will be glad on checking it and merge it!
 ## If you have any issue with this CMS, please post ISSUES on our Github, https://github.com/Abd-ulRahman/FusionCMS_4_LC.git
