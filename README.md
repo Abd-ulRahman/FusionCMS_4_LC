@@ -28,6 +28,8 @@ CMS Version: 6.2.1
 - and much more.....!
 - for more info about LC visit https://www.mmopro.org/repacks/26450-exclusively-mmopro-legendary-release-multi-player-project-legendarycore-3-3-5a-repack.html
 
+- Download latest Release for my repack at https://github.com/Abd-ulRahman
+
 ## Do you have any contributions?
 Please make a pull request and I will be glad on checking it and merge it!
 ## If you have any issue with this CMS, please post ISSUES on our Github, https://github.com/Abd-ulRahman/FusionCMS_4_LC.git
