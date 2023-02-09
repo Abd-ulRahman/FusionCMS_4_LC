@@ -1,4 +1,7 @@
-# FusionCMS Video:-
+
+- Download latest Release of my Legundary Core Repack at https://github.com/Abd-ulRahman
+
+- # FusionCMS Video:-
 
 
 https://user-images.githubusercontent.com/1366228/193461862-17bb6312-95c6-4593-a36d-dfe0321d6fbb.mp4
@@ -28,7 +31,6 @@ CMS Version: 6.2.1
 - and much more.....!
 - for more info about LC visit https://www.mmopro.org/repacks/26450-exclusively-mmopro-legendary-release-multi-player-project-legendarycore-3-3-5a-repack.html
 
-- Download latest Release of my Legundary Core Repack at https://github.com/Abd-ulRahman
 
 ## Do you have any contributions?
 Please make a pull request and I will be glad on checking it and merge it!
