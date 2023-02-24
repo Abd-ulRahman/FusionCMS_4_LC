@@ -1,5 +1,3 @@
-##  Download latest Release of my Legundary Core or ShadowLands 9.0.2.37474 Repack at https://github.com/Abd-ulRahman
-
 - # FusionCMS Video:-
 
 
